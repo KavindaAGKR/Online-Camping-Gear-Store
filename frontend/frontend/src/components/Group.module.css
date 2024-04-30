@@ -1,0 +1,73 @@
+
+body {
+    margin: 0; line-height: normal;
+}
+
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1535.08px;
+    height: 1212.07px;
+    object-fit: cover;
+}
+.groupItem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1535.08px;
+    height: 1212.07px;
+}
+.groupInner {
+    position: absolute;
+    top: 18.56px;
+    left: 226.29px;
+    border-radius: 14.48px;
+    width: 1083.42px;
+    height: 402.42px;
+    object-fit: cover;
+}
+.kisspngBulletComputerIcons2 {
+    position: relative;
+    width: 31.89px;
+    height: 30.81px;
+    object-fit: cover;
+}
+.frameChild {
+    position: relative;
+    border-radius: 50%;
+    background-color: #fbfbfb;
+    width: 9.73px;
+    height: 12.43px;
+}
+.frameItem {
+    position: relative;
+    border-radius: 50%;
+    background-color: #42c0fb;
+    width: 9.73px;
+    height: 12.43px;
+}
+.kisspngBulletComputerIcons3 {
+    position: relative;
+    width: 29.73px;
+    height: 31.35px;
+    object-fit: cover;
+}
+.kisspngBulletComputerIconsParent {
+    position: absolute;
+    top: 420px;
+    left: 708px;
+    width: 120px;
+    height: 41.62px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8.11px;
+}
+.rectangleParent {
+    position: relative;
+    width: 100%;
+    height: 1212.07px;
+}

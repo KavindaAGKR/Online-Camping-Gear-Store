@@ -1,0 +1,48 @@
+
+.login-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .signup-link {
+    margin-top: 15px;
+  }
+  
+  .forgot-password-link {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  
+  

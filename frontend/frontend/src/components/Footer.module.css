@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Impact:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imprima:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+
+.rectangleIcon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1535.08px;
+    height: 258.25px;
+    object-fit: cover;
+}
+.allCampingEquipments1 {
+    position: absolute;
+    top: 99px;
+    left: 181.5px;
+    font-size: 24px;
+    font-family: 'Istok Web';
+    display: inline-block;
+    width: 478.91px;
+    height: 20.16px;
+}
+.followUs {
+    margin: 0;
+}
+.facebook {
+    margin-bottom: 0px;
+}
+.facebookInstagramWhatsapp {
+    margin: 0;
+    padding-left: 32px;
+}
+.followUsFacebookContainer {
+    position: absolute;
+    top: 18.72px;
+    left: 1214.5px;
+    display: inline-block;
+    width: 175.09px;
+    height: 80.65px;
+}
+.usefulLinksNadunContainer {
+    position: absolute;
+    top: 18.72px;
+    left: 881.5px;
+    display: inline-block;
+    width: 211.07px;
+    height: 100.82px;
+}
+.campfireArmory {
+    position: absolute;
+    top: 34.8px;
+    left: 181.49px;
+    font-size: 51.17px;
+    font-family: Impact;
+    color: #ffe03b;
+    display: inline-block;
+    width: 393.36px;
+    height: 30.26px;
+}
+.vecteezyCampFireLogoVectorIcon {
+    position: absolute;
+    top: 30px;
+    left: 38.5px;
+    border-radius: 15.99px;
+    width: 116px;
+    height: 100px;
+    object-fit: cover;
+}
+.campfireArmory1 {
+    color: #ffdf3b;
+}
+.copyright2023CampfireContainer {
+    position: absolute;
+    top: 202px;
+    left: 892.5px;
+    font-size: 20px;
+    font-family: Imprima;
+    display: inline-block;
+    width: 536px;
+    height: 21px;
+}
+.x7ServiceContactContainer {
+    position: absolute;
+    top: 178px;
+    left: 38.5px;
+    font-size: 20px;
+    font-family: Inder;
+    display: inline-block;
+    width: 312px;
+    height: 45.42px;
+}
+.footer {
+    position: relative;
+    width: 100%;
+    height: 258.25px;
+    text-align: left;
+    font-size: inherit;
+    color: #fff;
+    font-family: inherit;
+}
+
