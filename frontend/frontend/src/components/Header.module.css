@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Impact:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+.headerChild {
+    position: relative;
+    background-color: #050910;
+    width: 1535.08px;
+    height: 159.9px;
+    z-index: 0;
+}
+.campfireArmory {
+    position: absolute;
+    margin: 0 !important;
+    top: 41.57px;
+    left: 180px;
+    font-size: 51.17px;
+    font-family: Impact;
+    display: inline-block;
+    width: 412.55px;
+    height: 65.56px;
+    flex-shrink: 0;
+    z-index: 1;
+}
+.vecteezyCampFireLogoVectorIcon {
+    position: absolute;
+    margin: 0 !important;
+    top: 16px;
+    left: 39.18px;
+    border-radius: 15.99px;
+    width: 110px;
+    height: 118px;
+    object-fit: cover;
+    z-index: 2;
+}
+.home {
+    position: relative;
+}
+.homeParent {
+    margin: 0 !important;
+    position: absolute;
+    top: 107.14px;
+    left: 720px;
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 47.97px;
+    z-index: 3;
+    color: #ffdf3b;
+}
+
+.signIn {
+    position: relative;
+    font-weight: 600;
+    background: transparent; 
+    font-size: 18px; 
+    display: flex;
+    align-items: flex-end;
+    width: 100px;
+    flex-shrink: 5;
+    z-index: 15;
+    border: none;
+    text-decoration: none;
+    color: black;
+  }
+  .signInWrapper {
+    margin: 0 !important;
+    position: absolute;
+    top: 22.39px;
+    left: 1330.82px;
+    border-radius: 15.99px;
+    background-color: #f2cb00;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px; 
+    z-index: 4;
+    color: #000;
+    border: none; 
+    font-weight: 600;
+    font-size: 18px; 
+  }
+  
+  
+/* .signInWrapper {
+    margin: 0 !important;
+    position: absolute;
+    top: 22.39px;
+    left: 1330.82px;
+    border-radius: 15.99px;
+    background-color: #f2cb00;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px 5px;
+    z-index: 4;
+    color: #000;
+} */
+.search {
+    position: relative;
+    font-weight: 600;
+    display: flex;
+    align-items: flex-end;
+    width: 295.82px;
+    flex-shrink: 5;
+    z-index: 5;
+}
+.searchWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15.99px;
+    background-color: #999891;
+    width: 315.01px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 6.396147727966309px 29.582183837890625px;
+    box-sizing: border-box;
+}
+.frameWrapper {
+    position: relative;
+    width: 315.01px;
+    height: 35.79px;
+    z-index: 0;
+}
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px 15.99px 15.99px 0px;
+    background-color: #ffdf3b;
+    width: 68.76px;
+    height: 35.98px;
+}
+.searchicon{
+    position: absolute;
+    top: 40.21px;
+    left: 990px;
+    width: 43.97px;
+    height: 29.55px;
+    object-fit: cover;
+    z-index: 10;
+}
+
+.rectangleParent {
+    position: absolute;
+    margin: 0 !important;
+    top: 0px;
+    left: 246.25px;
+    width: 68.76px;
+    height: 35.98px;
+    z-index: 3;
+}
+.groupParent {
+    position: absolute;
+    margin: 0 !important;
+    top: 35.98px;
+    left: 729.16px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: left;
+    font-size: 19.19px;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Inter;
+}
+
+
+.cartShoppingYellowIcon1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 85.55px;
+    left: 1340px;
+    width: 45px;
+    height: 40px;
+    object-fit: cover;
+    z-index: 6;
+}
+.header {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: left;
+    font-size: 20px;
+    color: #ffe03b;
+    font-family: Inter;
+}
+
+
+.customButton {
+    text-decoration: none; 
+    color: #ffe03b;
+  }
