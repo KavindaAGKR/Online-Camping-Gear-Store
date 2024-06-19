@@ -34,7 +34,7 @@ function SignUp() {
       }
     } catch (error) {
       console.error('Error:', error.message);
-      alert("Error: " + error.message); 
+      alert("Error: " + error.message); // Display the error message to the user
     }
   };
 

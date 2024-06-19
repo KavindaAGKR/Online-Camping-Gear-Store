@@ -1,5 +1,5 @@
 import React from "react";
-import './about.css'; 
+import './about.css'; // Import your about page styles if needed
 
 export const About = () => {
   return (

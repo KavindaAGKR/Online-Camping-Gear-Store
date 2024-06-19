@@ -1,4 +1,4 @@
-
+// Product.js
 import React from 'react';
 import './Product.css';
 

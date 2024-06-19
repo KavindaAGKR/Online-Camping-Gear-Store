@@ -1,7 +1,7 @@
-
+/* Product.css */
 .product {
     display: inline-block;
-    width: 300px; 
+    width: 300px; /* Adjust the width as needed */
     margin: 10px;
     border: 1px solid #ccc;
     padding: 10px;

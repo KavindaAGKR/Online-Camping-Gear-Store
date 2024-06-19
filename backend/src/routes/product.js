@@ -9,9 +9,9 @@ const verifyToken = require('../middlewears/verifyToken')
 
 
 
-router.post('/', ProductController.create);
-router.put('/:id', ProductController.update)
-router.delete('/:id', ProductController.delete)
+router.post('/',verifyToken, ProductController.create);
+router.put('/:id',verifyToken, ProductController.update)
+router.delete('/:id',verifyToken, ProductController.delete)
 
 
 
