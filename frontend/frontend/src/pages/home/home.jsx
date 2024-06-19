@@ -1,9 +1,9 @@
-
+//useless
 
 
 import React from "react";
 import { Link } from "react-router-dom";
-import './home.css';
+import './home.css'; // Import your home page styles if needed
 
 export const Home = () => {
   const categories = ["Tents", "Back Packs", "Stoves" ];
@@ -11,7 +11,6 @@ export const Home = () => {
   return (
     <div className="home">
       <h1>Camping Equipments</h1>
-      <h2>Shop by category</h2>
       <div className="category-buttons">
         {categories.map((category, index) => (
           // <Link to={`/category/${index + 1}`} key={index}>

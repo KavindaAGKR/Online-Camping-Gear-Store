@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-0
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Cart } from './pages/cart/cart';
 import Footer from './components/footer';
 import Header from './components/header';
