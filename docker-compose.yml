@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  backend:
+    build: ./backend
+    ports:
+      - '5000:5000'
+    environment:
+      - MONGODB_URI=mongodb+srv://kavindaaludeniya:BLNihyjL1zpdBN8R@cluster0.nuwbka2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+  frontend:
+    build: ./frontend
+    ports:
+      - '3000:3000'
+
+
+
+
