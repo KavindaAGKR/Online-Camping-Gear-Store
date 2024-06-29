@@ -4,7 +4,7 @@ import './about.css'; // Import your about page styles if needed
 export const About = () => {
   return (
     <div className="about">
-      <h1>aBOUT PAGE</h1>
+      <h1>About</h1>
       <p>
         Welcome to our camping gear store, where adventure begins and memories are made in the great outdoors. We are your one-stop destination for high-quality camping gear and outdoor essentials. Our mission is to equip outdoor enthusiasts, explorers, and nature lovers with the best gear, ensuring that your camping experience is comfortable, safe, and unforgettable.
       </p>
