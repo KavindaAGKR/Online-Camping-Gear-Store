@@ -4,10 +4,10 @@ triggers{
     githubPush()
   }
     environment {
-        REPO_URL = 'https://github.com/iRajapaksha/BookMyShoot.git'
+        REPO_URL = 'https://github.com/KavindaAGKR/Online-Camping-Gear-Store'
         BRANCH = 'main'
-        DOCKER_REGISTRY = 'irajapaksha'
-        APP_NAME = 'BookMyShoot'
+        DOCKER_REGISTRY = 'KavindaAGKR'
+        APP_NAME = 'Online-Camping-Gear-Store'
     }
 
     stages {
